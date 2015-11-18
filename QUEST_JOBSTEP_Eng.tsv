@@ -1,22 +1,22 @@
-QUEST_JOBSTEP_20150317_000001	$Bokor. You’ve chosen a difficult path. {nl}Refer to the instructions in your Adventure Journal and make your own doll.
-QUEST_JOBSTEP_20150317_000002	$You must make a doll by yourself. {nl}Check your Adventure Journal to see how you can make the doll. 
-QUEST_JOBSTEP_20150317_000003	{memo X}Congratulations, a new Bokor is born. {nl}When I first chose the path of a Bokor, I started by creating a doll of my own. 
-QUEST_JOBSTEP_20150317_000004	$Peltasta Master
-QUEST_JOBSTEP_20150317_000005	{memo X}$If you want to receive my teachings then you have to prove your worth first.{nl}Here’s a challenge: Defeat some Vubbes on the 1st Floor of the Crystal Mine.
+QUEST_JOBSTEP_20150317_000001	$Bokor. Você escolheu um caminho dificil. {nl}Consulte as instruções no seu diário de aventuras e faça a sua própria boneca.
+QUEST_JOBSTEP_20150317_000002	$Você deve fazer uma boneca por si mesmo. {nl}Consulte as instruções no seu diário de aventuras para ver como fazer uma boneca. 
+QUEST_JOBSTEP_20150317_000003	{memo X}Parabéns, um novo Bokor nasceu. {nl}Quando eu escolhi o caminho de um Bokor, eu comecei criando uma boneca por mim mesmo. 
+QUEST_JOBSTEP_20150317_000004	$Mestre Peltasta
+QUEST_JOBSTEP_20150317_000005	{memo X}$ Se você quer receber meus ensinamentos você deve então provar seu valor primeiro.{nl}Aqui está o desafio: Derrote alguns Vubbes no 1º andar da Mina de Cristal.
 QUEST_JOBSTEP_20150317_000006	$How can you bear the title of Peltasta if you can't even handle that much? 
 QUEST_JOBSTEP_20150317_000007	$Good. {nl}I hope your new growth leads to you saving the world. 
-QUEST_JOBSTEP_20150317_000008	$Highlander Master
+QUEST_JOBSTEP_20150317_000008	$Mestre Highlander
 QUEST_JOBSTEP_20150317_000009	{memo X}I'm so thankful that you want to be the successor of my swordsmanship, but I suspect that you won't follow my teachings well.{nl}I will test you by having you defeat the Vubbes that are occupying the 1st floor of the Crystal Mine.
 QUEST_JOBSTEP_20150317_000010	$Hurry. {nl} Although this is your initiation challenge, the Vubbes are a threat to the Miners' Village.
 QUEST_JOBSTEP_20150317_000011	$Good work, you've completed your initiation in becoming a Highlander. {nl} Keep up the hard work and dedication.
-QUEST_JOBSTEP_20150317_000012	$Pyromancer Master
+QUEST_JOBSTEP_20150317_000012	$Mestre Pyromancer
 QUEST_JOBSTEP_20150317_000013	{memo X}I can see that you want to learn magic from me, but I can't teach just anyone. {nl}I will see how well you can assist my research and then decide. 
 QUEST_JOBSTEP_20150317_000014	{memo X}Good work. Thanks to you I can start the next step of my research. {nl}I will teach you Pyromancer magic as promised. 
 QUEST_JOBSTEP_20150317_000015	{memo X}Good, you're here. I need you to defeat the evil spirits that I will summon. {nl}I will record the unique wavelength that is transmitted in the process. 
 QUEST_JOBSTEP_20150317_000016	{memo X}$I am doing research on the 4th state of matter. {nl}It is impossible without the cooperation of the Bokor Master, who deals with spirits. 
 QUEST_JOBSTEP_20150317_000017	$Yes, splendid. {nl}Tell the Pyromancer Master that we have all the materials we need. 
 QUEST_JOBSTEP_20150317_000018	{memo X}Good. {nl}That study is being done with the Bokor Master. So go pay her a visit and she'll tell you what to do. 
-QUEST_JOBSTEP_20150317_000019	$Cryomancer Master
+QUEST_JOBSTEP_20150317_000019	$Mestre Cryomancer
 QUEST_JOBSTEP_20150317_000020	{memo X}$You want to learn Cryomancer magic from me? {nl}Sure, I'll teach you, but only if you take care of something first! 
 QUEST_JOBSTEP_20150317_000021	$The Pyromancer Master should not be around. {nl}So it'll be an easy task.
 QUEST_JOBSTEP_20150317_000022	$Don't feel guilty about it. You did a good job. {nl}I've got your back from now on, so you don't need to worry. 
